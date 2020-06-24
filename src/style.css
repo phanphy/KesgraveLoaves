@@ -1,0 +1,41 @@
+.container {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+.navbar-brand{
+	background-color: #B8A1A1;
+	justify-content: center;
+}
+body{
+	background-image: url("../resources/media/baked-goods-1867459_1920.jpg");
+	/*background-size: cover;*/
+}
+
+h1 {
+	/*background-color: #B8A1A1;*/
+	background-size: contain;
+	color: #314343;
+	text-align: center;
+	font-size: 60px;
+	font-family: 'Amatic SC', cursive;
+	border-bottom: 4px solid #314343;
+}
+
+li {
+	list-style: none;
+	text-align: center;
+}
+
+
+
+img {
+	transition: all 0.2s;
+	max-width: 60%;
+	height:auto ;
+}
+
+img:hover{
+	transform: scale(1.02);
+}
