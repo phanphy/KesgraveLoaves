@@ -321,7 +321,7 @@ h3 {
 }
 
 #tilly-henry{
-  color: black;
+  color: #fff;
 }
 
 /* line 205, ../../Arafath/CL/CL August/199 Flatter Catering/199 Flatter Catering-HTML/scss/theme-default.scss */
@@ -657,7 +657,7 @@ h3 {
 /* line 3, ../../Arafath/CL/CL August/199 Flatter Catering/199 Flatter Catering-HTML/scss/_header.scss */
 .header-area .mein_menu_list {
 
-
+  color: #fff;
   display: -webkit-box;
   display: -moz-box;
   display: -ms-flexbox;
@@ -676,7 +676,7 @@ h3 {
 
 /* line 9, ../../Arafath/CL/CL August/199 Flatter Catering/199 Flatter Catering-HTML/scss/_header.scss */
 .header-area .logo-img-small {
-
+  color: #fff;
   position: absolute;
   top: 0;
   left: 25px;
@@ -742,7 +742,7 @@ h3 {
 
 /* line 56, ../../Arafath/CL/CL August/199 Flatter Catering/199 Flatter Catering-HTML/scss/_header.scss */
 .header-area .main-header-area .main-menu ul li a {
-  color: #453318;
+  color: #fff;
   font-size: 16px;
   text-transform: capitalize;
   font-weight: 400;
@@ -1162,7 +1162,7 @@ h3 {
 
 /* line 1, ../../Arafath/CL/CL August/199 Flatter Catering/199 Flatter Catering-HTML/scss/_banner.scss */
 .slider_img_1 {
-  background-image: url(../img/bread/1.jpg);
+  background-image: url(../img/bg.jpg);
 }
 
 /* line 4, ../../Arafath/CL/CL August/199 Flatter Catering/199 Flatter Catering-HTML/scss/_banner.scss */
@@ -2377,11 +2377,16 @@ del {
 /* line 93, ../../Arafath/CL/CL August/199 Flatter Catering/199 Flatter Catering-HTML/scss/_elements.scss */
 h1 {
   font-size: 36px;
+  color: black;
+  background-color: white;
+  border-radius: 12px;
+  padding: 8px;
 }
 
 /* line 97, ../../Arafath/CL/CL August/199 Flatter Catering/199 Flatter Catering-HTML/scss/_elements.scss */
 h2 {
   font-size: 30px;
+
 }
 
 /* line 101, ../../Arafath/CL/CL August/199 Flatter Catering/199 Flatter Catering-HTML/scss/_elements.scss */
